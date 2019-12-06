@@ -22,7 +22,7 @@ public class JavaDateExample {
         System.out.println(cal.get(Calendar.DATE)-33);
 
 
-        // or123
+        // or123lauris
      //   long millis = System.currentTimeMillis();
      //   Date now = new Date(millis);
      // Wed Mar 13 21:38:09 CET 2019
