@@ -51,3 +51,4 @@ public class DateExcersise {
         //Print out «dd.MM.YYYY hh:mm:ss» using System.out.printf
         //Print out beginning of next day.
         //Print out end of next day.
+        //Lauris
