@@ -52,3 +52,4 @@ public class DateExcersise {
         //Print out beginning of next day.
         //Print out end of next day.
         //Lauris
+        ////ajaksjakdj
